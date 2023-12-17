@@ -1,0 +1,23 @@
+/* style.css */
+
+/* Class */
+.odd {
+  background-color: #ffa0a0;
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.f24 {
+  font-size: 24px;
+}
+
+/* ID */
+#Num2 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#Num4 {
+  background-color: rgb(120, 220, 120);
+  font-size: 24px;
+  font-weight: bold;
+}
